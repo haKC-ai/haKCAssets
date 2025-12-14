@@ -1,0 +1,201 @@
+{
+  "version": "1.0",
+  "generated_by": "/dev/haKCØRY.23",
+  "organization": "haKC.ai",
+  "tagline": "THE PINNACLE OF HAKCING QUALITY",
+  "style": "warez/BBS/NFO scene aesthetic with modern DevOps sensibility",
+
+  "readme": {
+    "structure": [
+      "header_banner",
+      "badges",
+      "tagline",
+      "description",
+      "features",
+      "installation",
+      "usage",
+      "configuration",
+      "directory_structure",
+      "contributing",
+      "footer"
+    ],
+    "header_banner": {
+      "style": "ASCII art or logo image",
+      "max_width": 80,
+      "preferred": "ASCII art from banners/ collection",
+      "fallback": "Logo image from art/"
+    },
+    "badges": {
+      "provider": "shields.io",
+      "style": "for-the-badge",
+      "required": ["license", "python_version"],
+      "optional": ["build_status", "coverage", "downloads", "stars", "issues"],
+      "custom": {
+        "haKC_quality": {
+          "label": "haKC",
+          "message": "quality",
+          "color": "ff10f0",
+          "logo": "data:image/svg+xml;base64,..."
+        }
+      },
+      "colors": {
+        "primary": "00D9FF",
+        "secondary": "FF10F0",
+        "accent": "7928CA",
+        "success": "00FF41",
+        "warning": "FFB000",
+        "error": "FF006E"
+      }
+    },
+    "sections": {
+      "features": {
+        "style": "bullet_list_with_icons",
+        "icons": ["▸", "◆", "★", "►", "⚡", "🔥"]
+      },
+      "installation": {
+        "style": "code_blocks",
+        "show_multiple_methods": true,
+        "methods": ["pip", "pipx", "git_clone", "brew"]
+      },
+      "usage": {
+        "style": "code_blocks_with_examples",
+        "include_output": true
+      },
+      "directory_structure": {
+        "style": "tree_or_mermaid",
+        "prefer_mermaid": true
+      }
+    },
+    "footer": {
+      "include_signature": true,
+      "include_greets": true,
+      "signature_options": [
+        "───── ▓ signed, /dev/haKCØRY.23: ▓ ─────",
+        "- /dev/CØR.23",
+        "[ haKC.ai - The Pinnacle of Hakcing Quality ]",
+        "*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~ haKC.ai ~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*"
+      ],
+      "greets": "GR33TZ: SecKC, LEGACY CoWTownComputerCongress, ACiD, iCE, T$A"
+    }
+  },
+
+  "shields": {
+    "base_url": "https://img.shields.io",
+    "style": "for-the-badge",
+    "templates": {
+      "license": "badge/License-MIT-00D9FF?style=for-the-badge",
+      "python": "badge/Python-3.10+-FF10F0?style=for-the-badge&logo=python&logoColor=white",
+      "hakc_quality": "badge/haKC-QUALITY-7928CA?style=for-the-badge",
+      "terminal": "badge/Terminal-Ready-00FF41?style=for-the-badge&logo=gnometerminal&logoColor=white",
+      "ascii_art": "badge/ASCII-ART-FFB000?style=for-the-badge",
+      "bbs_vibes": "badge/BBS-VIBES-FF006E?style=for-the-badge",
+      "stars": "github/stars/{org}/{repo}?style=for-the-badge&color=00D9FF",
+      "issues": "github/issues/{org}/{repo}?style=for-the-badge&color=FF10F0",
+      "last_commit": "github/last-commit/{org}/{repo}?style=for-the-badge&color=7928CA",
+      "repo_size": "github/repo-size/{org}/{repo}?style=for-the-badge&color=00FF41"
+    }
+  },
+
+  "colors": {
+    "palette": {
+      "synthwave": {
+        "primary": "#00D9FF",
+        "secondary": "#FF10F0",
+        "accent": "#7928CA",
+        "background": "#1a1a2e",
+        "surface": "#16213e",
+        "border": "#0f3460"
+      },
+      "matrix": {
+        "primary": "#00FF41",
+        "secondary": "#008F11",
+        "accent": "#003B00",
+        "glow": "#39FF14"
+      },
+      "cyberpunk": {
+        "neon_cyan": "#00D9FF",
+        "hot_pink": "#FF10F0",
+        "electric_purple": "#7928CA",
+        "warning_orange": "#FFB000",
+        "error_red": "#FF006E"
+      }
+    },
+    "hex_only": true,
+    "note": "Remove # for shields.io URLs"
+  },
+
+  "typography": {
+    "code_font": "monospace",
+    "ascii_art_max_width": 80,
+    "box_chars": {
+      "single": {"tl": "┌", "tr": "┐", "bl": "└", "br": "┘", "h": "─", "v": "│"},
+      "double": {"tl": "╔", "tr": "╗", "bl": "╚", "br": "╝", "h": "═", "v": "║"},
+      "round": {"tl": "╭", "tr": "╮", "bl": "╰", "br": "╯", "h": "─", "v": "│"},
+      "heavy": {"tl": "┏", "tr": "┓", "bl": "┗", "br": "┛", "h": "━", "v": "┃"}
+    },
+    "decorations": {
+      "dividers": [
+        "*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*",
+        "═══════════════════════════════════════════",
+        "───────────────────────────────────────────",
+        "▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓"
+      ],
+      "bullets": ["▸", "◆", "★", "►", "•", "·"],
+      "blocks": ["█", "▓", "▒", "░", "▄", "▀"]
+    }
+  },
+
+  "voice": {
+    "tone": "irreverent, technical, self-aware humor",
+    "avoid": ["corporate speak", "buzzwords", "excessive emojis"],
+    "embrace": ["BBS/warez nostalgia", "terminal culture", "hacker humor", "self-deprecation"],
+    "examples": {
+      "good": [
+        "nano > vim. come fight us.",
+        "If your terminal doesn't support ANSI, you're not welcome here.",
+        "The pinnacle of hakcing quality starts with a typo."
+      ],
+      "bad": [
+        "Leverage synergies to optimize workflow",
+        "Best-in-class solution for enterprise needs",
+        "🎉🚀💯 AMAZING NEW FEATURE!!! 🔥🔥🔥"
+      ]
+    }
+  },
+
+  "naming": {
+    "repos": "lowercase with dashes (kebab-case) or camelCase",
+    "files": "lowercase_with_underscores (snake_case)",
+    "variables": "snake_case",
+    "classes": "PascalCase",
+    "constants": "SCREAMING_SNAKE_CASE"
+  },
+
+  "assets": {
+    "logo_variants": {
+      "main": "art/haKCAI.png",
+      "button": "art/hakc_button.png",
+      "promo": "art/promo_header.png"
+    },
+    "banners": {
+      "main": "banners/banner_full.txt",
+      "components": "banners/banner_component*.txt",
+      "template": "tools/generators/banner/banner_withvariables.txt"
+    },
+    "raw_url_base": "https://raw.githubusercontent.com/haKC-ai/haKCAssets/main/"
+  },
+
+  "mermaid": {
+    "themes": {
+      "default": {
+        "primaryColor": "#1a1a2e",
+        "primaryTextColor": "#fff",
+        "primaryBorderColor": "#e94560",
+        "lineColor": "#0f3460",
+        "secondaryColor": "#16213e",
+        "tertiaryColor": "#0f3460"
+      }
+    },
+    "prefer_for": ["flowcharts", "directory_structure", "architecture"]
+  }
+}

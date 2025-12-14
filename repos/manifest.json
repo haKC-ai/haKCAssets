@@ -1,0 +1,263 @@
+{
+  "generated": "2025-12-14T10:41:41.400282",
+  "organization": "haKC-ai",
+  "types": {
+    "images": {
+      "count": 33,
+      "repos": {
+        "AnythingYouCanDo": [
+          "443408476-222089c5-7113-41af-a87f-3a9f4f6b6b10.png",
+          "favicon.png",
+          "main_logo.png",
+          "app_logo.png",
+          "sidebar_logo.png"
+        ],
+        "CapturedPortal": [
+          "CapturedPortal2.png",
+          "CapturedPortal.png",
+          "lists.png",
+          "logoish.png"
+        ],
+        "DeepCam": [
+          "instruction.png",
+          "demo.gif"
+        ],
+        "RepoMapper": [
+          "GIT_261.png",
+          "repomapper.png"
+        ],
+        "gitcloakd": [
+          "gitcloakd_demo.gif",
+          "gitcloakd.gif",
+          "gitcloakd_logo.png",
+          "gitcloakd_cli.gif",
+          "gitcloakd_cli.png"
+        ],
+        "hakcer": [
+          "hakcer_demo_1a.gif",
+          "hakcer_demo_0a.gif",
+          "hakcer_demo_2a.gif",
+          "hakcer_demo.gif"
+        ],
+        "hakcthropic": [
+          "hacked.png"
+        ],
+        "misp_ai_expansion_module": [
+          "AIM.png"
+        ],
+        "norecognition": [
+          "fuzzer-working.png",
+          "v04_fuzzer_working.gif",
+          "kickstarter-logo-green.png",
+          "nonrecognition_banner.png"
+        ],
+        "prompthakcer": [
+          "icon16.png",
+          "icon48.png",
+          "icon128.png",
+          "icon32.png"
+        ],
+        "stopslop": [
+          "sts.png"
+        ]
+      }
+    },
+    "banners": {
+      "count": 18,
+      "repos": {
+        "gitcloakd": [
+          "banner.txt"
+        ],
+        "CapturedPortal": [
+          "banner"
+        ],
+        "talks": [
+          "readme_banner.txt",
+          "readme_banner_2.txt"
+        ],
+        "hakcer": [
+          "readme_banner_3.txt",
+          "readme_banner_4.txt",
+          "readme_banner_5.txt",
+          "readme_banner_6.txt",
+          "readme_banner_7.txt",
+          "readme_banner_8.txt",
+          "readme_banner_9.txt",
+          "readme_banner_10.txt",
+          "readme_banner_11.txt",
+          "readme_banner_12.txt",
+          "readme_banner_13.txt",
+          "readme_banner_14.txt",
+          "readme_banner_15.txt",
+          "readme_banner_16.txt"
+        ]
+      }
+    },
+    "icons": {
+      "count": 5,
+      "repos": {
+        "prompthakcer": [
+          "icon128.png",
+          "icon16.png",
+          "icon32.png",
+          "icon48.png"
+        ],
+        "AnythingYouCanDo": [
+          "favicon.png"
+        ]
+      }
+    },
+    "media": {
+      "count": 7,
+      "repos": {
+        "CapturedPortal": [
+          "build.mp4"
+        ],
+        "gitcloakd": [
+          "gitcloaded_logo.mp4"
+        ],
+        "hakcer": [
+          "hakcer_demo_1a.mp4",
+          "hakcer_demo_0a.mp4",
+          "hakcer_demo.mp4",
+          "hakcer_demo_2a.mp4"
+        ],
+        "hakcthropic": [
+          "hackthropic_720.mov"
+        ]
+      }
+    }
+  },
+  "by_repo": {
+    "AnythingYouCanDo": {
+      "images": [
+        "443408476-222089c5-7113-41af-a87f-3a9f4f6b6b10.png",
+        "favicon.png",
+        "main_logo.png",
+        "app_logo.png",
+        "sidebar_logo.png"
+      ],
+      "icons": [
+        "favicon.png"
+      ]
+    },
+    "CapturedPortal": {
+      "images": [
+        "CapturedPortal2.png",
+        "CapturedPortal.png",
+        "lists.png",
+        "logoish.png"
+      ],
+      "banners": [
+        "banner"
+      ],
+      "media": [
+        "build.mp4"
+      ]
+    },
+    "DeepCam": {
+      "images": [
+        "instruction.png",
+        "demo.gif"
+      ]
+    },
+    "RepoMapper": {
+      "images": [
+        "GIT_261.png",
+        "repomapper.png"
+      ]
+    },
+    "gitcloakd": {
+      "images": [
+        "gitcloakd_demo.gif",
+        "gitcloakd.gif",
+        "gitcloakd_logo.png",
+        "gitcloakd_cli.gif",
+        "gitcloakd_cli.png"
+      ],
+      "banners": [
+        "banner.txt"
+      ],
+      "media": [
+        "gitcloaded_logo.mp4"
+      ]
+    },
+    "hakcer": {
+      "images": [
+        "hakcer_demo_1a.gif",
+        "hakcer_demo_0a.gif",
+        "hakcer_demo_2a.gif",
+        "hakcer_demo.gif"
+      ],
+      "banners": [
+        "readme_banner_3.txt",
+        "readme_banner_4.txt",
+        "readme_banner_5.txt",
+        "readme_banner_6.txt",
+        "readme_banner_7.txt",
+        "readme_banner_8.txt",
+        "readme_banner_9.txt",
+        "readme_banner_10.txt",
+        "readme_banner_11.txt",
+        "readme_banner_12.txt",
+        "readme_banner_13.txt",
+        "readme_banner_14.txt",
+        "readme_banner_15.txt",
+        "readme_banner_16.txt"
+      ],
+      "media": [
+        "hakcer_demo_1a.mp4",
+        "hakcer_demo_0a.mp4",
+        "hakcer_demo.mp4",
+        "hakcer_demo_2a.mp4"
+      ]
+    },
+    "hakcthropic": {
+      "images": [
+        "hacked.png"
+      ],
+      "media": [
+        "hackthropic_720.mov"
+      ]
+    },
+    "misp_ai_expansion_module": {
+      "images": [
+        "AIM.png"
+      ]
+    },
+    "norecognition": {
+      "images": [
+        "fuzzer-working.png",
+        "v04_fuzzer_working.gif",
+        "kickstarter-logo-green.png",
+        "nonrecognition_banner.png"
+      ]
+    },
+    "prompthakcer": {
+      "images": [
+        "icon16.png",
+        "icon48.png",
+        "icon128.png",
+        "icon32.png"
+      ],
+      "icons": [
+        "icon128.png",
+        "icon16.png",
+        "icon32.png",
+        "icon48.png"
+      ]
+    },
+    "stopslop": {
+      "images": [
+        "sts.png"
+      ]
+    },
+    "talks": {
+      "banners": [
+        "readme_banner.txt",
+        "readme_banner_2.txt"
+      ]
+    }
+  },
+  "total_assets": 63
+}

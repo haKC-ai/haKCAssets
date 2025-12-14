@@ -1,0 +1,24 @@
+# Claude Code
+.claude/
+
+# Artscene MOTD cache
+tools/artscene/cache/
+tools/artscene/index.db
+.artscene_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Sync state (local only)
+.sync_state.json

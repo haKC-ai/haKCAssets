@@ -1,0 +1,303 @@
+{
+  "generated": "2025-12-14T10:41:41.398101",
+  "count": 33,
+  "assets": {
+    "443408476-222089c5-7113-41af-a87f-3a9f4f6b6b10.png": {
+      "filename": "443408476-222089c5-7113-41af-a87f-3a9f4f6b6b10.png",
+      "source_repo": "AnythingYouCanDo",
+      "source_path": "assets/443408476-222089c5-7113-41af-a87f-3a9f4f6b6b10.png",
+      "sha": "1df28d347296202770df507fdab5310ea770e027",
+      "size": 444396,
+      "synced_at": "2025-12-14T10:41:38.121680",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/AnythingYouCanDo/main/assets/443408476-222089c5-7113-41af-a87f-3a9f4f6b6b10.png"
+    },
+    "favicon.png": {
+      "filename": "favicon.png",
+      "source_repo": "AnythingYouCanDo",
+      "source_path": "images/favicon.png",
+      "sha": "",
+      "size": 107435,
+      "synced_at": "2025-12-14T10:34:55.486645",
+      "download_url": ""
+    },
+    "main_logo.png": {
+      "filename": "main_logo.png",
+      "source_repo": "AnythingYouCanDo",
+      "source_path": "assets/main_logo.png",
+      "sha": "4eb7804f9d07d2a005ca23a7e1b36f6feba76305",
+      "size": 1106157,
+      "synced_at": "2025-12-14T10:41:38.694502",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/AnythingYouCanDo/main/assets/main_logo.png"
+    },
+    "app_logo.png": {
+      "filename": "app_logo.png",
+      "source_repo": "AnythingYouCanDo",
+      "source_path": "assets/app_logo.png",
+      "sha": "6620f1500bab8797eb424f9386cc7be4c66d7eeb",
+      "size": 107435,
+      "synced_at": "2025-12-14T10:41:38.288962",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/AnythingYouCanDo/main/assets/app_logo.png"
+    },
+    "sidebar_logo.png": {
+      "filename": "sidebar_logo.png",
+      "source_repo": "AnythingYouCanDo",
+      "source_path": "assets/sidebar_logo.png",
+      "sha": "54e354040f8facdc376f734f6d937bfd24b00ab8",
+      "size": 799605,
+      "synced_at": "2025-12-14T10:41:38.913357",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/AnythingYouCanDo/main/assets/sidebar_logo.png"
+    },
+    "CapturedPortal2.png": {
+      "filename": "CapturedPortal2.png",
+      "source_repo": "CapturedPortal",
+      "source_path": "img/CapturedPortal2.png",
+      "sha": "28a94e253c919997b26575e69d662bc428bd44d1",
+      "size": 3070069,
+      "synced_at": "2025-12-14T10:41:29.216888",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/CapturedPortal/main/img/CapturedPortal2.png"
+    },
+    "CapturedPortal.png": {
+      "filename": "CapturedPortal.png",
+      "source_repo": "CapturedPortal",
+      "source_path": "img/CapturedPortal.png",
+      "sha": "651847ff3a5d3a357d331ae8a5f3be92c4b4f487",
+      "size": 2967335,
+      "synced_at": "2025-12-14T10:41:28.923211",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/CapturedPortal/main/img/CapturedPortal.png"
+    },
+    "lists.png": {
+      "filename": "lists.png",
+      "source_repo": "CapturedPortal",
+      "source_path": "img/lists.png",
+      "sha": "3e70d37903732b24dd5b2f82d002090c5e31149b",
+      "size": 1593285,
+      "synced_at": "2025-12-14T10:41:30.142553",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/CapturedPortal/main/img/lists.png"
+    },
+    "logoish.png": {
+      "filename": "logoish.png",
+      "source_repo": "CapturedPortal",
+      "source_path": "img/logoish.png",
+      "sha": "f6a02ce65d317b80d9fc0d759ba7744067ba399e",
+      "size": 592476,
+      "synced_at": "2025-12-14T10:41:30.355799",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/CapturedPortal/main/img/logoish.png"
+    },
+    "instruction.png": {
+      "filename": "instruction.png",
+      "source_repo": "DeepCam",
+      "source_path": "instruction.png",
+      "sha": "168d4d4ae392e44a7d8c5cda5fd347b8b499fc5e",
+      "size": 74341,
+      "synced_at": "2025-12-14T10:41:41.395531",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/DeepCam/main/instruction.png"
+    },
+    "demo.gif": {
+      "filename": "demo.gif",
+      "source_repo": "DeepCam",
+      "source_path": "demo.gif",
+      "sha": "7d5d5d2e1df434ec954740f57734bed884f83309",
+      "size": 11366009,
+      "synced_at": "2025-12-14T10:41:41.213982",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/DeepCam/main/demo.gif"
+    },
+    "GIT_261.png": {
+      "filename": "GIT_261.png",
+      "source_repo": "RepoMapper",
+      "source_path": "img/GIT_261.png",
+      "sha": "75222ecc96e8325bfd007d0b5de7118eeb3a1625",
+      "size": 1564680,
+      "synced_at": "2025-12-14T10:41:28.042021",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/RepoMapper/main/img/GIT_261.png"
+    },
+    "repomapper.png": {
+      "filename": "repomapper.png",
+      "source_repo": "RepoMapper",
+      "source_path": "img/repomapper.png",
+      "sha": "a8a31c5c6a7dc7f50db8ffbec72b2dde1aa81e3a",
+      "size": 855757,
+      "synced_at": "2025-12-14T10:41:28.387495",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/RepoMapper/main/img/repomapper.png"
+    },
+    "gitcloakd_demo.gif": {
+      "filename": "gitcloakd_demo.gif",
+      "source_repo": "gitcloakd",
+      "source_path": "img/gitcloakd_demo.gif",
+      "sha": "38b6345abcb5931ebb7213dff6e4665f4b855072",
+      "size": 530869,
+      "synced_at": "2025-12-14T10:41:27.335327",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/gitcloakd/main/img/gitcloakd_demo.gif"
+    },
+    "gitcloakd.gif": {
+      "filename": "gitcloakd.gif",
+      "source_repo": "gitcloakd",
+      "source_path": "img/gitcloakd.gif",
+      "sha": "88c918bc7e23dc2a07fa84716286dd7cd4467d08",
+      "size": 4638566,
+      "synced_at": "2025-12-14T10:41:26.254110",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/gitcloakd/main/img/gitcloakd.gif"
+    },
+    "gitcloakd_logo.png": {
+      "filename": "gitcloakd_logo.png",
+      "source_repo": "gitcloakd",
+      "source_path": "img/gitcloakd_logo.png",
+      "sha": "42bac4324cd1561e09e347c39632ba407dff2180",
+      "size": 1045856,
+      "synced_at": "2025-12-14T10:41:27.558364",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/gitcloakd/main/img/gitcloakd_logo.png"
+    },
+    "gitcloakd_cli.gif": {
+      "filename": "gitcloakd_cli.gif",
+      "source_repo": "gitcloakd",
+      "source_path": "img/gitcloakd_cli.gif",
+      "sha": "0ad118e2fa2b3f64433d1e6c59b6ca8c61349be6",
+      "size": 8942232,
+      "synced_at": "2025-12-14T10:41:26.778803",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/gitcloakd/main/img/gitcloakd_cli.gif"
+    },
+    "gitcloakd_cli.png": {
+      "filename": "gitcloakd_cli.png",
+      "source_repo": "gitcloakd",
+      "source_path": "img/gitcloakd_cli.png",
+      "sha": "78b6fb207fa06fd7ff5b0218ce1915b1f7cfc989",
+      "size": 1610766,
+      "synced_at": "2025-12-14T10:41:27.034939",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/gitcloakd/main/img/gitcloakd_cli.png"
+    },
+    "hakcer_demo_1a.gif": {
+      "filename": "hakcer_demo_1a.gif",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo_1a.gif",
+      "sha": "175e3a65d8f436f062cfa4ef84c278f24ccd5896",
+      "size": 7032612,
+      "synced_at": "2025-12-14T10:41:34.418862",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo_1a.gif"
+    },
+    "hakcer_demo_0a.gif": {
+      "filename": "hakcer_demo_0a.gif",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo_0a.gif",
+      "sha": "c42f335f2d0a353056be700ad460ea7e25593659",
+      "size": 8125907,
+      "synced_at": "2025-12-14T10:41:32.541683",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo_0a.gif"
+    },
+    "hakcer_demo_2a.gif": {
+      "filename": "hakcer_demo_2a.gif",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo_2a.gif",
+      "sha": "77eff7948b00f13a63af816ab4a269d284deca29",
+      "size": 5897280,
+      "synced_at": "2025-12-14T10:41:36.171356",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo_2a.gif"
+    },
+    "hakcer_demo.gif": {
+      "filename": "hakcer_demo.gif",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo.gif",
+      "sha": "c06e5c6afa3d377b9640a8666402a21617eb2d46",
+      "size": 8167537,
+      "synced_at": "2025-12-14T10:41:31.395055",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo.gif"
+    },
+    "hacked.png": {
+      "filename": "hacked.png",
+      "source_repo": "hakcthropic",
+      "source_path": "hacked.png",
+      "sha": "41865715193945538a0fc2aa48a83c78b6195022",
+      "size": 4054257,
+      "synced_at": "2025-12-14T10:41:39.299137",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcthropic/main/hacked.png"
+    },
+    "AIM.png": {
+      "filename": "AIM.png",
+      "source_repo": "misp_ai_expansion_module",
+      "source_path": "images/AIM.png",
+      "sha": "06601699a71f16908cbacabe53c8db6074010a7a",
+      "size": 2947212,
+      "synced_at": "2025-12-14T10:41:37.908105",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/misp_ai_expansion_module/main/images/AIM.png"
+    },
+    "fuzzer-working.png": {
+      "filename": "fuzzer-working.png",
+      "source_repo": "norecognition",
+      "source_path": "images/fuzzer-working.png",
+      "sha": "3c59e27ecec96cc6774ce1b57f4c6d0a412ee820",
+      "size": 300317,
+      "synced_at": "2025-12-14T10:41:36.879218",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/norecognition/main/images/fuzzer-working.png"
+    },
+    "v04_fuzzer_working.gif": {
+      "filename": "v04_fuzzer_working.gif",
+      "source_repo": "norecognition",
+      "source_path": "images/v04_fuzzer_working.gif",
+      "sha": "0803420c4323737dee8e9620bb719ab31cf03c90",
+      "size": 577586,
+      "synced_at": "2025-12-14T10:41:37.403433",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/norecognition/main/images/v04_fuzzer_working.gif"
+    },
+    "kickstarter-logo-green.png": {
+      "filename": "kickstarter-logo-green.png",
+      "source_repo": "norecognition",
+      "source_path": "images/kickstarter-logo-green.png",
+      "sha": "2a07adb8524d13ff6b90c28f6360bec1c1bb971b",
+      "size": 30400,
+      "synced_at": "2025-12-14T10:41:37.024129",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/norecognition/main/images/kickstarter-logo-green.png"
+    },
+    "nonrecognition_banner.png": {
+      "filename": "nonrecognition_banner.png",
+      "source_repo": "norecognition",
+      "source_path": "images/nonrecognition_banner.png",
+      "sha": "f188ac317c9f0447db07ec583c858fa4029c8e85",
+      "size": 221850,
+      "synced_at": "2025-12-14T10:41:37.200351",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/norecognition/main/images/nonrecognition_banner.png"
+    },
+    "icon16.png": {
+      "filename": "icon16.png",
+      "source_repo": "prompthakcer",
+      "source_path": "images/icon16.png",
+      "sha": "",
+      "size": 1515,
+      "synced_at": "2025-12-14T10:34:56.613701",
+      "download_url": ""
+    },
+    "icon48.png": {
+      "filename": "icon48.png",
+      "source_repo": "prompthakcer",
+      "source_path": "images/icon48.png",
+      "sha": "",
+      "size": 4838,
+      "synced_at": "2025-12-14T10:34:56.614802",
+      "download_url": ""
+    },
+    "icon128.png": {
+      "filename": "icon128.png",
+      "source_repo": "prompthakcer",
+      "source_path": "images/icon128.png",
+      "sha": "",
+      "size": 22469,
+      "synced_at": "2025-12-14T10:34:56.615764",
+      "download_url": ""
+    },
+    "icon32.png": {
+      "filename": "icon32.png",
+      "source_repo": "prompthakcer",
+      "source_path": "images/icon32.png",
+      "sha": "",
+      "size": 2862,
+      "synced_at": "2025-12-14T10:34:56.616570",
+      "download_url": ""
+    },
+    "sts.png": {
+      "filename": "sts.png",
+      "source_repo": "stopslop",
+      "source_path": "assets/sts.png",
+      "sha": "f4469b2c0547311d16f35ecf5cbc465844c3287c",
+      "size": 742019,
+      "synced_at": "2025-12-14T10:41:37.620772",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/stopslop/main/assets/sts.png"
+    }
+  }
+}

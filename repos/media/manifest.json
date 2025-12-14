@@ -1,0 +1,69 @@
+{
+  "generated": "2025-12-14T10:41:41.397461",
+  "count": 7,
+  "assets": {
+    "build.mp4": {
+      "filename": "build.mp4",
+      "source_repo": "CapturedPortal",
+      "source_path": "img/build.mp4",
+      "sha": "c76b9a2915c736fe46cc4a8bac02d4a90a13bff5",
+      "size": 15006555,
+      "synced_at": "2025-12-14T10:41:29.893886",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/CapturedPortal/main/img/build.mp4"
+    },
+    "gitcloaded_logo.mp4": {
+      "filename": "gitcloaded_logo.mp4",
+      "source_repo": "gitcloakd",
+      "source_path": "img/gitcloaded_logo.mp4",
+      "sha": "85c0ca28ff8bfe86e79fca64ef76dfb07bd8944b",
+      "size": 1417488,
+      "synced_at": "2025-12-14T10:41:25.900094",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/gitcloakd/main/img/gitcloaded_logo.mp4"
+    },
+    "hakcer_demo_1a.mp4": {
+      "filename": "hakcer_demo_1a.mp4",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo_1a.mp4",
+      "sha": "c5afc4e44d3a3eb7ffdd6e904b1ef1b15d4cf097",
+      "size": 36446049,
+      "synced_at": "2025-12-14T10:41:35.769449",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo_1a.mp4"
+    },
+    "hakcer_demo_0a.mp4": {
+      "filename": "hakcer_demo_0a.mp4",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo_0a.mp4",
+      "sha": "114dfd72be1deccdd53e13e2edcc31ed205e4d36",
+      "size": 36028364,
+      "synced_at": "2025-12-14T10:41:33.821775",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo_0a.mp4"
+    },
+    "hakcer_demo.mp4": {
+      "filename": "hakcer_demo.mp4",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo.mp4",
+      "sha": "d1155c3bf680125d4f4f78d19544a0561c786118",
+      "size": 10420320,
+      "synced_at": "2025-12-14T10:41:31.968994",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo.mp4"
+    },
+    "hakcer_demo_2a.mp4": {
+      "filename": "hakcer_demo_2a.mp4",
+      "source_repo": "hakcer",
+      "source_path": "media/hakcer_demo_2a.mp4",
+      "sha": "ed41fb56609f4836a8e1d2d1a341ff424fa91f2d",
+      "size": 10649779,
+      "synced_at": "2025-12-14T10:41:36.674426",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcer/main/media/hakcer_demo_2a.mp4"
+    },
+    "hackthropic_720.mov": {
+      "filename": "hackthropic_720.mov",
+      "source_repo": "hakcthropic",
+      "source_path": "hackthropic_720.mov",
+      "sha": "31768a4e226717b520f35d2ae67291f9c9d59433",
+      "size": 19945164,
+      "synced_at": "2025-12-14T10:41:40.499165",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/hakcthropic/main/hackthropic_720.mov"
+    }
+  }
+}

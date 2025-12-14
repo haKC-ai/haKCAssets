@@ -1,0 +1,51 @@
+{
+  "generated": "2025-12-14T10:41:41.399753",
+  "count": 5,
+  "assets": {
+    "icon128.png": {
+      "filename": "icon128.png",
+      "source_repo": "prompthakcer",
+      "source_path": "icons/icon128.png",
+      "sha": "8f2a76b07cf4bdb621a86d56383b40d4aea6bc84",
+      "size": 22469,
+      "synced_at": "2025-12-14T10:41:30.502167",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/prompthakcer/main/icons/icon128.png"
+    },
+    "icon16.png": {
+      "filename": "icon16.png",
+      "source_repo": "prompthakcer",
+      "source_path": "icons/icon16.png",
+      "sha": "72e6fbaa266f24120b5fc90dfdd7d04eb4ae1b4b",
+      "size": 1515,
+      "synced_at": "2025-12-14T10:41:30.648601",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/prompthakcer/main/icons/icon16.png"
+    },
+    "icon32.png": {
+      "filename": "icon32.png",
+      "source_repo": "prompthakcer",
+      "source_path": "icons/icon32.png",
+      "sha": "3475ae74a58d56bd4c51775fef2fd0d968c4a36f",
+      "size": 2862,
+      "synced_at": "2025-12-14T10:41:30.783356",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/prompthakcer/main/icons/icon32.png"
+    },
+    "icon48.png": {
+      "filename": "icon48.png",
+      "source_repo": "prompthakcer",
+      "source_path": "icons/icon48.png",
+      "sha": "641114310a146d3002ffdeee8d6683473e401488",
+      "size": 4838,
+      "synced_at": "2025-12-14T10:41:30.915572",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/prompthakcer/main/icons/icon48.png"
+    },
+    "favicon.png": {
+      "filename": "favicon.png",
+      "source_repo": "AnythingYouCanDo",
+      "source_path": "assets/favicon.png",
+      "sha": "6620f1500bab8797eb424f9386cc7be4c66d7eeb",
+      "size": 107435,
+      "synced_at": "2025-12-14T10:41:38.459861",
+      "download_url": "https://raw.githubusercontent.com/haKC-ai/AnythingYouCanDo/main/assets/favicon.png"
+    }
+  }
+}

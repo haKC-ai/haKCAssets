@@ -1,0 +1,146 @@
+{
+  "version": "2.0",
+  "description": "Asset organization rules for haKCAssets repo",
+  "org": "haKC-ai",
+  "directories": {
+    "art": {
+      "description": "Artwork, logos, promotional graphics",
+      "extensions": [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"],
+      "conditions": ["brand", "logo", "promo", "header", "button", "badge", "icon"]
+    },
+    "avatars": {
+      "description": "Profile pictures, gravatars, account avatars",
+      "extensions": [".png", ".jpg", ".jpeg", ".gif", ".webp"],
+      "conditions": ["avatar", "profile", "gravatar", "pfp", "account"]
+    },
+    "banners": {
+      "description": "ASCII/ANSI art, NFO files, text banners",
+      "extensions": [".txt", ".md", ".ans", ".asc", ".nfo", ""],
+      "conditions": ["ascii", "ansi", "banner", "nfo", "text_art"]
+    },
+    "tools": {
+      "description": "Scripts and utilities",
+      "extensions": [".py", ".sh", ".js", ".ts", ".rb", ".pl"],
+      "conditions": ["script", "tool", "utility"]
+    },
+    "reference": {
+      "description": "Screenshots, mockups, inspiration",
+      "extensions": [".png", ".jpg", ".jpeg", ".gif", ".webp", ".pdf"],
+      "conditions": ["reference", "screenshot", "mockup", "inspiration"]
+    },
+    "repos": {
+      "description": "Assets synced from org repos, organized by repo name",
+      "extensions": ["*"],
+      "conditions": ["synced", "repo"]
+    }
+  },
+  "rules": [
+    {
+      "id": "avatar_detection",
+      "priority": 1,
+      "description": "Square images with avatar-related names go to avatars/",
+      "match": {
+        "extensions": [".png", ".jpg", ".jpeg", ".gif", ".webp"],
+        "aspect_ratio": "square",
+        "name_contains": ["avatar", "profile", "gravatar", "pfp", "me", "photo"]
+      },
+      "destination": "avatars"
+    },
+    {
+      "id": "ascii_art_detection",
+      "priority": 2,
+      "description": "Text files with ASCII/ANSI art characters go to banners/",
+      "match": {
+        "extensions": [".txt", ".md", ".ans", ".asc", ".nfo", ""],
+        "content_contains": ["█", "▓", "▒", "░", "╔", "╗", "╚", "╝", "│", "─", "┌", "┐", "└", "┘"]
+      },
+      "destination": "banners"
+    },
+    {
+      "id": "script_detection",
+      "priority": 3,
+      "description": "Script files go to tools/",
+      "match": {
+        "extensions": [".py", ".sh", ".js", ".ts", ".rb", ".pl"]
+      },
+      "destination": "tools"
+    },
+    {
+      "id": "button_badge_detection",
+      "priority": 4,
+      "description": "Small images (badges/buttons) go to art/",
+      "match": {
+        "extensions": [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"],
+        "max_dimension": 500
+      },
+      "destination": "art"
+    },
+    {
+      "id": "logo_detection",
+      "priority": 5,
+      "description": "Images with logo/brand names go to art/",
+      "match": {
+        "extensions": [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"],
+        "name_contains": ["logo", "brand", "icon", "header", "banner", "promo", "ph", "cover"]
+      },
+      "destination": "art"
+    },
+    {
+      "id": "media_detection",
+      "priority": 6,
+      "description": "Video/animation files",
+      "match": {
+        "extensions": [".mp4", ".webm", ".mov", ".gif"]
+      },
+      "destination": "repos/{repo}/media"
+    },
+    {
+      "id": "default_image",
+      "priority": 99,
+      "description": "Default: unmatched images go to art/",
+      "match": {
+        "extensions": [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"]
+      },
+      "destination": "art"
+    }
+  ],
+  "sync": {
+    "enabled": true,
+    "interval_minutes": 30,
+    "source_dirs": ["media", "img", "images", "assets", "icons", "banner", "banners", "art", "screenshots"],
+    "asset_extensions": {
+      "images": [".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico"],
+      "banners": [".txt", ".ans", ".asc", ".nfo"],
+      "media": [".mp4", ".gif", ".webm", ".mov"],
+      "docs": [".pdf"]
+    },
+    "exclude_repos": ["haKCAssets"],
+    "repo_structure": "repos/{repo}/{type}/{filename}"
+  },
+  "naming": {
+    "style": "lowercase_underscore",
+    "patterns": {
+      "avatars": "{name}_{platform}.{ext}",
+      "art": "{project}_{variant}.{ext}",
+      "banners": "{name}_{type}.{ext}",
+      "tools": "{action}_{target}.{ext}",
+      "repos": "{repo}_{original_name}.{ext}"
+    }
+  },
+  "ignore": [
+    ".git",
+    ".claude",
+    ".DS_Store",
+    "README.md",
+    "asset_rules.json",
+    ".sync_state.json",
+    "*.pyc",
+    "__pycache__",
+    "requirements.txt",
+    "package.json",
+    "package-lock.json",
+    "Cargo.toml",
+    "go.mod",
+    "go.sum"
+  ]
+}
